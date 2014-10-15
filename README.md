@@ -1,4 +1,4 @@
-Drupal-Design-Patterns
+Drupal Design Patterns
 ======================
 
 这是一本关于Drupal设计模式的迷你书，基于国外的一个[系列博客](http://www.erikwebb.net/blog/drupal-design-patterns/)，如果以后有其他文章与这个主题相关也可以加入进来。
