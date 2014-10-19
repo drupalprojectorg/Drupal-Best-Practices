@@ -47,7 +47,7 @@ Drupal最佳实践：在数据库中存储对象
 
 ### 例子：
 
-```
+``` php
 <?php
   $my_data = new stdClass();
   $my_data->id = 1;    // remove this to see INSERT behavior
