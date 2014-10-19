@@ -1,0 +1,5 @@
+* [创建自己的钩子](articles/001_hooks.md)
+* [有效地使用静态变量](articles/002_static.md)
+* [利用Drupal的缓存](articles/003_cache.md)
+* [在数据库中保存对象](articles/004_objects.md)
+* [充分使用菜单系统](articles/005_menus.md)
